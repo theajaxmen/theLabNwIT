@@ -86,3 +86,6 @@ git cherry-pick C4 C3 C2
 git switch two
 git cherry-pick C5 C4 C3 C2
 git branch -f three C2
+
+
+jakies tam zmiany do spr bla bla bla bla 
